@@ -1,0 +1,112 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "本地音乐播放器"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "本地音乐播放器"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Zing"
+    },
+    {
+      "name": "tab_my_music",
+      "value": "我的"
+    },
+    {
+      "name": "tab_playlist",
+      "value": "歌单"
+    },
+    {
+      "name": "tab_category",
+      "value": "分类"
+    },
+    {
+      "name": "tab_settings",
+      "value": "设置"
+    },
+    {
+      "name": "my_favorite",
+      "value": "我喜欢"
+    },
+    {
+      "name": "recent_play",
+      "value": "最近播放"
+    },
+    {
+      "name": "local_import",
+      "value": "本地导入"
+    },
+    {
+      "name": "all_songs",
+      "value": "全部歌曲"
+    },
+    {
+      "name": "my_playlist",
+      "value": "我的歌单"
+    },
+    {
+      "name": "local_songs",
+      "value": "本地歌曲"
+    },
+    {
+      "name": "play_all",
+      "value": "全部播放"
+    },
+    {
+      "name": "search_hint",
+      "value": "搜索歌曲、歌手、专辑"
+    },
+    {
+      "name": "no_music_tip",
+      "value": "未找到本地音乐，点击导入"
+    },
+    {
+      "name": "no_lyric",
+      "value": "暂无歌词"
+    },
+    {
+      "name": "create_playlist",
+      "value": "新建歌单"
+    },
+    {
+      "name": "settings_scan_folder",
+      "value": "扫描文件夹"
+    },
+    {
+      "name": "settings_support_format",
+      "value": "支持格式"
+    },
+    {
+      "name": "settings_default_mode",
+      "value": "默认播放模式"
+    },
+    {
+      "name": "settings_show_lyric",
+      "value": "歌词显示"
+    },
+    {
+      "name": "settings_about",
+      "value": "关于"
+    },
+    {
+      "name": "settings_version",
+      "value": "版本"
+    },
+    {
+      "name": "mode_sequence",
+      "value": "顺序播放"
+    },
+    {
+      "name": "mode_repeat_one",
+      "value": "单曲循环"
+    },
+    {
+      "name": "mode_shuffle",
+      "value": "随机播放"
+    }
+  ]
+}

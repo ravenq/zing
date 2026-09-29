@@ -1,0 +1,13 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/SongListPage",
+    "pages/ArtistDetailPage",
+    "pages/AlbumDetailPage",
+    "pages/PlaylistDetailPage",
+    "pages/SearchPage",
+    "pages/OnlineSearchPage",
+    "pages/SourceManagePage",
+    "pages/WebSnifferPage"
+  ]
+}
