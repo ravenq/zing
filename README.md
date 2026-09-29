@@ -5,7 +5,7 @@
 知音（英文 Zing）是使用 ArkTS 开发的鸿蒙原生音乐应用，以「本地播放」为核心，同时提供合规的在线曲库接入和通用学习用途的网页资源嗅探能力。界面采用扁平、简洁的设计风格，整体色调统一。
 
 <p align="center">
-  <img src="screenshots/zing_home.png" width="320" alt="知音 App 首页截图">
+  <img src="screenshots/home.png" width="320" alt="知音 App 首页截图">
 </p>
 
 ## 功能特性
